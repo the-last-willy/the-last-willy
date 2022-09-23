@@ -13,6 +13,6 @@ So I might ass well share them.
 
 Some links are private for obvious reasons.
 
-[My bookmarks](https://github.com/the-last-willy/bookmarks/blob/main/version_control/README.md)
+[My bookmarks](https://github.com/the-last-willy/bookmarks)
 
 [My config](https://github.com/the-last-willy/config)
