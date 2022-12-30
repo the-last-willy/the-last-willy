@@ -2,6 +2,8 @@ Hi, welcome to my house.
 
 You'll find everything you might want to know about me here.
 
+TODO: Website
+
 # Socials
 
 TODO
